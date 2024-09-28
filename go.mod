@@ -1,3 +1,3 @@
-module github.com/bigyanse/crud
+module github.com/bigyanse/go-crud
 
 go 1.22.7

@@ -1,5 +1,5 @@
 {
-  description = "crud";
+  description = "go-crud";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
